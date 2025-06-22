@@ -4,7 +4,9 @@
 
 ChatForge is a sleek, ChatGPT-inspired desktop application that brings the power of Ollama's local language models to an intuitive, feature-rich interface. Built with PyQt5, it offers a smooth, responsive chat experience with advanced features like streaming responses, custom system prompts, and intelligent model management.
 
+## Demo
 ![ChatForge Interface](https://i.ibb.co/jxyCckM/image-2025-06-22-113534991.png)
+
 ![Python](https://img.shields.io/badge/Python-3.7+-green)
 ![License](https://img.shields.io/badge/License-MIT-orange)
 
